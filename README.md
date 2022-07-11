@@ -1,5 +1,5 @@
 # JSX-Exercise
-Practicing with JSX (JavaScript XML)
+
 Part 1
 For this assignment you will be creating three components:
 
